@@ -1,0 +1,19 @@
+{
+  "name": "shop/shoppingcart",
+  "description": "Shopping Cart",
+  "authors": [
+    {
+      "name": "anna",
+      "email": "anna.alcaide.hijano@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Shop\\": "src/"
+    }
+  },
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}
