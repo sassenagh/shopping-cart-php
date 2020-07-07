@@ -34,4 +34,4 @@ In order to test the correct functioning of the creation of products, vouchers a
 
 ## Authors
 
-- **Anna Alcaide** - _Initial work_ - [ShoppingCart](#)
+- **Anna Alcaide** - _Initial work_ - [ShoppingCart](https://github.com/sassenagh/shopping-cart-php)
